@@ -1,6 +1,6 @@
 # Sistema de Informacion, Clinica Dermatologica
 
-_Este proyecto es un sistema de informacion de clinicas enfocado a una clinica dermatologica _
+Este proyecto es un sistema de informacion de clinicas enfocado a una clinica dermatologica
 
 ## Construido con 🛠️
 
@@ -14,9 +14,7 @@ Se uso [Git](https://git-scm.com/) para el versionado. Para todas las versiones 
 
 ## Autores ✒️
 
-* **Wilder Alexander Calani Apaza** - *Trabajo Inicial* - [Crash](https://github.com/crashorbo/)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Wilder Alexander Calani Apaza** - *Trabajo Inicial* - [Crash](https://github.com/crashorbo/) 
 
 ## Licencia 📄
 
